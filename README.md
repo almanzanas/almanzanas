@@ -20,7 +20,7 @@ Based on:
     <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
     <div align="center">
         <a href="https://www.linkedin.com/in/alvaromanzanas/">
-            <img alt="LinkedIn" src="https://img.shields.io/badge/Alvaro%20Manzanas-greenyellow?style=for-the-badge&logo=linkedin&logoColor=navy">
+            <img alt="LinkedIn" src="https://img.shields.io/badge/Alvaro%20Manzanas-%23AFEEEE?style=for-the-badge&logo=linkedin&logoColor=navy">
         </a>
         <a href="https://almanzanas.github.io/">
             <img alt="GitHub" src="https://img.shields.io/badge/almanzanas-grey?style=for-the-badge&logo=github">
@@ -43,8 +43,8 @@ Based on:
     <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems         into elegant solutions</p>
     <div align="center">
         <img alt="Python" src="https://img.shields.io/badge/Python-azure?style=for-the-badge&logo=python&logoColor=black">
-        <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Bash-GreenYellow?style=for-the-badge&logo=debian&logoColor=white">
+        <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23191970?style=for-the-badge&logo=powershell&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Bash-%234B0082?style=for-the-badge&logo=debian&logoColor=white">
     </div>
 <!--
     <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
@@ -59,13 +59,14 @@ Based on:
         <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
     </div>
 -->
-    <h2 align="center" class="section-heading">Frameworks</h2>
+    <h2 align="center" class="section-heading">Frameworks and tools</h2>
     <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for         its ability to facilitate rapid development and deliver robust functionality</p>
     <div align="center">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-        <img alt="Static Badge" src="https://img.shields.io/badge/Notebook-gold?style=for-the-badge&logo=jupyter&logoColor=black">
-        <img alt="SPSS" src="https://img.shields.io/badge/SPSS-black?style=for-the-badge&logo=ibm&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+        <img alt="Jupyter" src="https://img.shields.io/badge/Notebook-gold?style=for-the-badge&logo=jupyter&logoColor=black"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        <img alt="SPSS" src="https://img.shields.io/badge/SPSS-%23800000?style=for-the-badge&logo=ibm&logoColor=white"/>
+        <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23191970?style=for-the-badge&logo=powerbi"/>
     </div>
 </div>
