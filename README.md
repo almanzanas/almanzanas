@@ -16,7 +16,7 @@ Based on:
 </div>
 
 <div align="center">
-    <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+    <h2 align="center" class="section-heading">Connect with Me</h2>
     <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
     <div align="center">
         <a href="https://www.linkedin.com/in/alvaromanzanas/">
@@ -26,18 +26,20 @@ Based on:
             <img alt="GitHub" src="https://img.shields.io/badge/almanzanas-grey?logo=github">
         </a>
     </div>
+<!--
     <div align="center">
         <h2>Github Commits</h2>
         <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement. Dive into the commit messages for insights into what I've been up to!</p>
         <img src="https://raw.githubusercontent.com/almanzanas/almanzanas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
         <img src="https://raw.githubusercontent.com/almanzanas/almanzanas/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
     </div>
+-->
     <h2 align="center" class="section-heading">Programming Languages</h2>
     <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
     <div align="center">
-        <img alt="Python" src="https://img.shields.io/badge/Python-white?logo=python&logoColor=black">
-        <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-blue?logo=powershell&logoColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Bash-GreenYellow?logo=debian&logoColor=white">
+        <img alt="Python" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black">
+        <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Bash-GreenYellow?style=for-the-badge&logo=debian&logoColor=white">
     </div>
 <!--
     <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
@@ -57,7 +59,7 @@ Based on:
     <div align="center">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-        <img alt="SPSS" src="https://img.shields.io/badge/SPSS-black?logo=ibm&logoColor=white">
+        <img alt="SPSS" src="https://img.shields.io/badge/SPSS-black?style=for-the-badge&logo=ibm&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </div>
 </div>
