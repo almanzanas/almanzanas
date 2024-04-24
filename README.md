@@ -29,8 +29,15 @@ Based on:
     <div align="center">
         <h2>Github Commits</h2>
         <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement. Dive into the commit messages for insights into what I've been up to!</p>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almanzanas/almanzanas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almanzanas/almanzanas/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/almanzanas/almanzanas/output/github-contribution-grid-snake.svg">
+        </picture>
+        <!--
         <img src="https://github.com/almanzanas/almanzanas/blob/output/github-contribution-grid-snake2.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
         <img src="https://github.com/almanzanas/almanzanas/blob/output/github-contribution-grid-snake2.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+        -->
     </div>
     <h2 align="center" class="section-heading">Programming Languages</h2>
     <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
