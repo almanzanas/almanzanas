@@ -32,12 +32,10 @@ Based on:
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almanzanas/almanzanas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almanzanas/almanzanas/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/almanzanas/almanzanas/output/github-contribution-grid-snake.svg">
+            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/almanzanas/almanzanas/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
         </picture>
-        <!--
         <img src="https://github.com/almanzanas/almanzanas/blob/output/github-contribution-grid-snake2.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
         <img src="https://github.com/almanzanas/almanzanas/blob/output/github-contribution-grid-snake2.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
-        -->
     </div>
     <h2 align="center" class="section-heading">Programming Languages</h2>
     <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
