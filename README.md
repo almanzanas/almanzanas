@@ -42,7 +42,7 @@ Based on:
     <h2 align="center" class="section-heading">Programming Languages</h2>
     <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems         into elegant solutions</p>
     <div align="center">
-        <img alt="Python" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black">
+        <img alt="Python" src="https://img.shields.io/badge/Python-azure?style=for-the-badge&logo=python&logoColor=black">
         <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/Bash-GreenYellow?style=for-the-badge&logo=debian&logoColor=white">
     </div>
