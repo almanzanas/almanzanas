@@ -59,6 +59,7 @@ Based on:
     <div align="center">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Notebook-gold?style=for-the-badge&logo=jupyter&logoColor=black">
         <img alt="SPSS" src="https://img.shields.io/badge/SPSS-black?style=for-the-badge&logo=ibm&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </div>
