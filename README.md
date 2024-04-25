@@ -24,7 +24,7 @@ Based on:
     <div align="center">
         <a href="https://www.linkedin.com/in/alvaromanzanas/">
             <img alt="LinkedIn" src="https://img.shields.io/badge/Alvaro%20Manzanas-%23AFEEEE?style=for-the-badge&logo=linkedin&logoColor=navy">
-        </a>
+        </a>&ensp;
         <a href="https://alvaromanzanas.github.io/">
             <img alt="Portfolio" src="https://img.shields.io/badge/alvaromanzanas-grey?style=for-the-badge&logo=html5&logoColor=white">
         </a>
@@ -47,8 +47,8 @@ Based on:
     <h2 align="center" class="section-heading">Programming Languages</h2>
     <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems         into elegant solutions</p>
     <div align="center">
-        <img alt="Python" src="https://img.shields.io/badge/Python-azure?style=for-the-badge&logo=python&logoColor=black">
-        <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23191970?style=for-the-badge&logo=powershell&logoColor=white">
+        <img alt="Python" src="https://img.shields.io/badge/Python-azure?style=for-the-badge&logo=python&logoColor=black">&ensp;
+        <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23191970?style=for-the-badge&logo=powershell&logoColor=white">&ensp;
         <img alt="Static Badge" src="https://img.shields.io/badge/Bash-%234B0082?style=for-the-badge&logo=debian&logoColor=white">
     </div>
 <!--
@@ -67,11 +67,11 @@ Based on:
         Like some analysis tools, frameworks are the core of my development process because they provide the structure and tools needed to create powerful, efficient and scalable applications.
     </p>
     <div align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-        <img alt="Jupyter" src="https://img.shields.io/badge/Notebook-gold?style=for-the-badge&logo=jupyter&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-        <img alt="SPSS" src="https://img.shields.io/badge/SPSS-%23800000?style=for-the-badge&logo=ibm&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&ensp;
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>&ensp;
+        <img alt="Jupyter" src="https://img.shields.io/badge/Notebook-gold?style=for-the-badge&logo=jupyter&logoColor=black"/>&ensp;
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&ensp;
+        <img alt="SPSS" src="https://img.shields.io/badge/SPSS-%23800000?style=for-the-badge&logo=ibm&logoColor=white"/>&ensp;
         <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23191970?style=for-the-badge&logo=powerbi"/>
     </div>
 </div>
