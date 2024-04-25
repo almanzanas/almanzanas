@@ -25,8 +25,8 @@ Based on:
         <a href="https://www.linkedin.com/in/alvaromanzanas/">
             <img alt="LinkedIn" src="https://img.shields.io/badge/Alvaro%20Manzanas-%23AFEEEE?style=for-the-badge&logo=linkedin&logoColor=navy">
         </a>
-        <a href="https://almanzanas.github.io/">
-            <img alt="GitHub" src="https://img.shields.io/badge/almanzanas-grey?style=for-the-badge&logo=github">
+        <a href="https://alvaromanzanas.github.io/">
+            <img alt="Portfolio" src="https://img.shields.io/badge/alvaromanzanas-grey?style=for-the-badge&logo=html5&logoColor=white">
         </a>
     </div>
     <div align="center">
