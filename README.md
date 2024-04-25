@@ -1,7 +1,6 @@
 <!--
 Based on:
     https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl
-    https://github.com/ZanePearton/ZanePearton
 -->
 
 <div align="center">
@@ -12,12 +11,16 @@ Based on:
 
 <div align="center">
     <h2>About Me</h2>
-    <p>I'm a junior Data Analyst/Data Scientist specializing in [Your Specialization].</p>
+    <p>
+    Junior Data Scientist, Psychology graduatewith a background in Computer SystemsAdministration and virtualization. <br />I am characterised by a technical profile,especially in Data Analysis, with a logical andanalytical thinking that I would define asscientific. <br />I am an organised and creative person, a teamplayer, interdisciplinary and goal-oriented.
+    </p>
 </div>
 
 <div align="center">
     <h2 align="center" class="section-heading">Connect with Me</h2>
-    <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+    <p>
+    To contact me you can find my professional profile on LinkedIn or explore my projects on my personal page. <br />Feel free to contact me for collaboration, opportunities or just to talk about new ideas or new technologies.
+    </p>
     <div align="center">
         <a href="https://www.linkedin.com/in/alvaromanzanas/">
             <img alt="LinkedIn" src="https://img.shields.io/badge/Alvaro%20Manzanas-%23AFEEEE?style=for-the-badge&logo=linkedin&logoColor=navy">
@@ -28,7 +31,9 @@ Based on:
     </div>
     <div align="center">
         <h2>Github Commits</h2>
-        <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement. Dive into the commit messages for insights into what I've been up to!</p>
+        <p>
+        This section shows my daily work and the repositories I am actively involved in. <br />Each commit represents a step forward or a solution for ongoing projects, showing my dedication to constant improvement. <br />Feel free to explore the commit messages for a deeper understanding of my recent efforts.
+        </p>
 <!--
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/almanzanas/almanzanas/blob/output/github-contribution-grid-snake-dark.svg">
@@ -47,20 +52,20 @@ Based on:
         <img alt="Static Badge" src="https://img.shields.io/badge/Bash-%234B0082?style=for-the-badge&logo=debian&logoColor=white">
     </div>
 <!--
-    <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
-    <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a             glance at the cloud technologies I specialize in:</p>
+    <h2 align="center" class="section-heading">Cloud Technologies</h2>
+    <p>
+    </p>
     <div align="center">
         <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
         <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
         <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-        <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-        <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
     </div>
 -->
     <h2 align="center" class="section-heading">Frameworks and tools</h2>
-    <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for         its ability to facilitate rapid development and deliver robust functionality</p>
+    <p>
+        Like some analysis tools, frameworks are the core of my development process because they provide the structure and tools needed to create powerful, efficient and scalable applications.
+    </p>
     <div align="center">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
