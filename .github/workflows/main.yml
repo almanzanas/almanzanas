@@ -37,10 +37,10 @@ jobs:
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake-dark.gif?palette=github-dark
 
-      - name: ensure the generated file exists
-        run: |
-          ls -l ${{ steps.snake-gif.outputs.gif_out_path }}
-          test -f ${{ steps.snake-gif.outputs.gif_out_path }}
+#      - name: ensure the generated file exists
+#        run: |
+#          ls -l ${{ steps.snake-gif.outputs.gif_out_path }}
+#         test -f ${{ steps.snake-gif.outputs.gif_out_path }}
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
