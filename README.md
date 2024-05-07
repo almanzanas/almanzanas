@@ -50,7 +50,7 @@ Based on:
         <img alt="Python" src="https://img.shields.io/badge/Python-azure?style=for-the-badge&logo=python&logoColor=black">&ensp;
         <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23191970?style=for-the-badge&logo=powershell&logoColor=white">&ensp;
         <img alt="Bash" src="https://img.shields.io/badge/Bash-%234B0082?style=for-the-badge&logo=debian&logoColor=white">&ensp;
-        <img alt="SQL" src="https://img.shields.io/badge/Bash-%234B0082?style=for-the-badge&logo=debian&logoColor=white">&ensp;
+        <img alt="SQL" src="https://img.shields.io/badge/SQL-darkmagenta?style=for-the-badge&logo=mariadb&logoColor=pink">&ensp;
         <img alt="DAX" src="https://img.shields.io/badge/DAX-aqua?style=for-the-badge&logo=power%20bi&logoColor=black">
     </div>
 <!--
