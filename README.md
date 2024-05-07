@@ -12,7 +12,7 @@ Based on:
 <div align="center">
     <h2>About Me</h2>
     <p>
-    Junior Data Scientist, Psychology graduatewith a background in Computer SystemsAdministration and virtualization. <br />I am characterised by a technical profile,especially in Data Analysis, with a logical andanalytical thinking that I would define asscientific. <br />I am an organised and creative person, a teamplayer, interdisciplinary and goal-oriented.
+    Junior Data Scientist, Psychology graduate with a background in Computer Systems Administration and Virtualization. <br />I am characterised by a technical profile, especially in Data Analysis, with a logical and analytical thinking that I would define as scientific. <br />I am an organised and creative person, a teamplayer, interdisciplinary and goal-oriented.
     </p>
 </div>
 
