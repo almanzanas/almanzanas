@@ -13,8 +13,8 @@ Based on:
     <h2>About Me</h2>
     <p>
         Junior Data Scientist, Psychologist with a background in Computer Systems Administration and Virtualization.<br>
-		I am characterised by a technical profile, especially in Data Analysis, with a logical and analytical thinking that I would define as scientific. 
-		Moreover, as an organised person, I am motivated to achieve measurable results and surpass targets.
+		I am characterized by a technical profile, especially in Data Analysis, with a logical and analytical thinking that I would define as scientific. 
+		Moreover, as an organized person, I am motivated to achieve measurable results and surpass targets.
 		Finally, my interdisciplinary knowledge allows me to thrive in dynamic and collaborative environments.
     </p>
 </div>
@@ -75,7 +75,7 @@ Based on:
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&ensp;
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>&ensp;
         <img alt="Jupyter" src="https://img.shields.io/badge/Notebook-gold?style=for-the-badge&logo=jupyter&logoColor=black"/>&ensp;
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&ensp;
+        <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&ensp; -->
         <img alt="SPSS" src="https://img.shields.io/badge/SPSS-%23800000?style=for-the-badge&logo=ibm&logoColor=white"/>&ensp;
         <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23191970?style=for-the-badge&logo=powerbi"/>
     </div>
