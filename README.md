@@ -50,6 +50,7 @@ Based on:
     <h2 align="center" class="section-heading">Programming Languages</h2>
     <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems         into elegant solutions</p>
     <div align="center">
+	<img alt="R" src="https://img.shields.io/badge/r?style=for-the-badge&logo=r&logoColor=white">&ensp;
         <img alt="Python" src="https://img.shields.io/badge/Python-azure?style=for-the-badge&logo=python&logoColor=black">&ensp;
         <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23191970?style=for-the-badge&logo=powershell&logoColor=white">&ensp;
         <img alt="Bash" src="https://img.shields.io/badge/Bash-%234B0082?style=for-the-badge&logo=debian&logoColor=white">&ensp;
@@ -77,6 +78,7 @@ Based on:
         <img alt="Jupyter" src="https://img.shields.io/badge/Notebook-gold?style=for-the-badge&logo=jupyter&logoColor=black"/>&ensp;
         <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&ensp; -->
         <img alt="SPSS" src="https://img.shields.io/badge/SPSS-%23800000?style=for-the-badge&logo=ibm&logoColor=white"/>&ensp;
+	<img alt="RStudio" src="https://img.shields.io/badge/RStudio-lightblue?style=for-the-badge&logo=rstudioide&logoColor=black"/>&ensp;
         <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23191970?style=for-the-badge&logo=powerbi"/>
     </div>
 </div>
